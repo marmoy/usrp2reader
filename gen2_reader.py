@@ -2,8 +2,8 @@
 #Developed by: Michael Buettner (buettner@cs.washington.edu)
 #Modified for USRP2 by: Yuanqing Zheng (yuanqing1@ntu.edu.sg)
 
-from gnuradio import digital
-from gnuradio import eng_notation
+#from gnuradio import digital
+#from gnuradio import eng_notation
 from gnuradio import gr,gru
 from gnuradio import uhd
 from gnuradio.wxgui import scopesink2
